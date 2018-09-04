@@ -1,0 +1,11 @@
+br\udesc\ceavi\dsw\desafiorest\webreservices\CarrosResource.class
+br\udesc\ceavi\dsw\desafiorest\dao\DAO.class
+br\udesc\ceavi\dsw\desafiorest\model\Moto_.class
+br\udesc\ceavi\dsw\desafiorest\model\Moto.class
+br\udesc\ceavi\dsw\desafiorest\model\Carro.class
+br\udesc\ceavi\dsw\desafiorest\model\Veiculo.class
+br\udesc\ceavi\dsw\desafiorest\model\Veiculo_.class
+br\udesc\ceavi\dsw\desafiorest\webreservices\MotosResource.class
+br\udesc\ceavi\dsw\desafiorest\model\Carro_.class
+br\udesc\ceavi\dsw\desafiorest\webreservices\ApplicationConfig.class
+br\udesc\ceavi\dsw\desafiorest\webreservices\VeiculosResource.class
